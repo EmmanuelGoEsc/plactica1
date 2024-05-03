@@ -1,3 +1,2 @@
-# plactica1
-Practica 1
-se agregó desde github
+1. Emmanuel Gómez (EmmanuelGoEsc)
+2. se agregó desde github
