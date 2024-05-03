@@ -1,2 +1,1 @@
-# plactica1
-Practica 1
+1. Emmanuel Gómez (EmmanuelGoEsc)
